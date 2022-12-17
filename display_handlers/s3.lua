@@ -1,0 +1,1 @@
+-- https://splatoon3.ink/data/schedules.json
